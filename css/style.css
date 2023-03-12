@@ -35,14 +35,14 @@ main:after{
 
 .logo{
     max-width: 350px;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 
 .descricao{
-    width: 49%;
-    font-size: 24px;
+    width: 45%;
+    font-size: 15px;
     color: #ffffff;
-    line-height: 30px;
+    line-height: 25px;
     text-align: justify;
 }
 
