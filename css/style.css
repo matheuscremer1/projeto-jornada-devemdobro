@@ -10,7 +10,7 @@ a{
     text-decoration: none;}
 
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Cinzel', serif;
     max-width: 1280px;
     margin: 0 auto;
 }
@@ -35,12 +35,12 @@ main:after{
 
 .logo{
     max-width: 350px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .descricao{
-    width: 45%;
-    font-size: 15px;
+    width: 40%;
+    font-size: 17px;
     color: #ffffff;
     line-height: 25px;
     text-align: justify;
